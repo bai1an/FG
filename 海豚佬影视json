@@ -3,7 +3,19 @@
     "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747813141071/20250521_153801.gif",
     "wallpaper": "https://t.alcy.cc/acg",
     "warningText": "学习使用，资源来源于网络，请勿贩卖，请加载24小时后删除，出现其他问题与作者无关，请知悉！",
-    "sites": [
+   "lives": [
+        {
+            "name": "iptvpro",
+            "type": 0,
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/iptvpro"
+        },
+        {
+            "name": "港台大陆频道",
+            "type": 0,
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/港台大陆频道"
+        }
+     ],
+     "sites": [
         {
 			"key": "hpy_js_豆瓣[官]",
 			"name": "豆瓣视频",
@@ -14,7 +26,7 @@
 			"filterable": 1,
 			"order_num": 0,
 			"ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/豆瓣[官].js"
-		},
+	    },
         {
             "key": "配置",
             "name": "📥配置┃中心",
@@ -26,14 +38,7 @@
                 "type": "rect",
                 "ratio": 1.297
             }
-        },      
-    "lives": [
-        {
-            "name": "iptvpr0",
-            "type": 0,
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/iptvpro"
-        }
-    ],
+        },
         {
             "key": "push_agent",
             "name": "⛽手机┃推送",
