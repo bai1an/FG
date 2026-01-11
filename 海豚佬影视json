@@ -116,10 +116,38 @@
             "searchable": 0,
             "quickSearch": 0
         },
-{"name":"巧技三","type":1,"url":"https://zy.qiaoji8.com/xiafan.php?url=","ext":{"flag":["QD4K","iyf","duanju","gzcj","GTV","GZYS","weggz","Ace"],"header":{"User-Agent":"okhttp/4.9.1"}}},
-{"name":"4K智家","type":1,"url":"http://125.208.23.251:1314/lunxun/?url="},
-{"name":"星睿⚡4K","type":1,"url":"http://sspa8.top:8100/api/?cat_ext=eyJmbGFnIjpbInFxIiwi6IW+6K6vIiwicWl5aSIsIueIseWlh+iJuiIsIuWlh+iJuiIsInlvdWt1Iiwi5LyY6YW3Iiwic29odSIsIuaQnOeLkCIsImxldHYiLCLkuZDop4YiLCJtZ3R2Iiwi6IqS5p6cIiwidG5tYiIsInNldmVuIiwiYmlsaWJpbGkiLCIxOTA1Il0sImhlYWRlciI6eyJVc2VyLUFnZW50Ijoib2todHRwLzQuOS4xIn19&key=星睿4k&url="},
-{"name":"HD⚡腾讯解析","type":1,"url":"http://shybot.top/v2/video/jx/?shykey=4595a71a4e7712568edcfa43949236b42fcfcb04997788ebe7984d6da2c6a51c&url="},
-{"name":"4k芒果⚡专解","type":1,"url":"http://shybot.top/v2/video/jx/?shykey=4595a71a4e7712568edcfa43949236b42fcfcb04997788ebe7984d6da2c6a51c&qn=max&url="}
+        {
+            "key": "🔱｜专线🏅",
+             "name": "🔱｜专线1🏅",
+             "type": 3,
+             "api": "csp_XBPQ",
+             "jar": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/qrh/hjys.jar",
+             "searchable": 1,
+             "quickSearch": 1,
+             "filterable": 1,
+             "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjzy/hjzy1.json"
+        },
+        {
+             "key": "🔱｜专线🏅",
+             "name": "🔱｜专线2🏅",
+              "type": 3,
+             "api": "csp_XBPQ",
+             "jar": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/qrh/hjys.jar",
+             "searchable": 1,
+             "quickSearch": 1,
+             "filterable": 1,
+             "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjzy/hjzy4.json"
+        },
+        {
+             "key": "🔱｜专线3🏅",
+              "name": "🔱｜专线3🏅",
+              "type": 3,
+             "api": "csp_XYQHiker",
+             "jar": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/qrh/mew/custom_spider__1_.jar",
+             "searchable": 1,
+             "quickSearch": 1,
+              "filterable": 1,
+              "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/人人.json"
+        }
     ]
 }
