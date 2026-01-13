@@ -271,6 +271,18 @@
 			"changeable": 0,
 			"ext": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/lz/market.json",
 			"jar": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/lz/fm.jar"
+		},
+        {
+			"api": "https://learnpython.ggff.net/HLBTY",
+			"key": "HLBTY",
+			"name": "🐬黑料网｜🔞",
+			"type": 4
+		},
+        {
+			"api": "https://learnpython.ggff.net/51xiG",
+			"key": "51xiG",
+			"name": "🐬51吃瓜｜🔞",
+			"type": 4
 		}
         ],
     "parses": [
