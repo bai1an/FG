@@ -297,7 +297,7 @@
         },
                 {
             "key": "91",
-            "name": "🐙91麻豆｜🔞(梯子)",
+            "name": "🐬91麻豆｜🔞(梯子)",
             "type": 1,
             "api": "https://91md.me/api.php/provide/vod/",
             "searchable": 1,
@@ -401,6 +401,21 @@
             "name": "线路3",
             "type": 1,
             "url": "https://jx.nnxv.cn/tv.php?url="
+        },
+              {
+            "name": "线路4",
+            "type": 1,
+            "url": "https://www.nxflv.com/?url="
+        },
+        {
+            "name": "线路5",
+            "type": 1,
+            "url": "https://jx.xmflv.com/?url="
+        },
+        {
+            "name": "线路6",
+            "type": 1,
+            "url": "https://jx.jsonplayer.com/player/?url="
         },
      {
       "group": "软解码",
