@@ -58,6 +58,28 @@
         "api": "http://www.meowtv.cn/js/drpy2.min.js"
         },
        {
+      "key": "二小",
+      "name": "🐬二小┃4K",
+      "type": 3,
+      "api": "csp_ErXiaoGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 25
+    },
+    {
+      "key": "双星",
+      "name": "🐬双星┃4K",
+      "type": 3,
+      "api": "csp_Star2Guard",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      },
+       {
       "key": "量子2k",
       "name": "🐬量子影视｜追剧",
       "type": 1,
