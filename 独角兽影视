@@ -636,6 +636,12 @@
     {"name": "Quad9","url": "https://dns.quad9.net/dns-quer","ips": ["9.9.9.9","149.112.112.112"]}],
 "lives": [
         {
+            "name": "🦄电视ZB",
+            "type": 0,
+            "ua": "okhttp/5.3.2",
+            "url": "http://1.94.31.214/live/live9/dgtv.txt"
+        },
+        {
             "name": "🦄jackTV(梯子)",
             "type": 0,
             "ua": "okhttp/5.3.2",
